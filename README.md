@@ -6,7 +6,7 @@ This repository contains the code regarding the publication: 'Deep learning intr
 
 March 2023 by Misha Kaandorp
 
-mishakaandorp@gmail.com / mpkaando@stud.ntnu.no
+mpkaando@stud.ntnu.no
 
 https://github.com/Mishakaandorp 
 
