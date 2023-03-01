@@ -7,7 +7,7 @@ Publication accompanying this code is available at:
 xxxxxxxx
 
 ## For easy start, run the code 'Explore_Deep_Learning_IVIM_code.py'
-Figures and Plots are created in subfolders when running the code
+Figures and Plots are created in subfolders when running the code.
 
 March 2023 by Misha Kaandorp
 
