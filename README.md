@@ -4,7 +4,7 @@ This repository contains the code regarding the publication: 'Deep learning intr
 
 Publication accompanying this code is available at:
 
-xxxxxxxx
+https://onlinelibrary.wiley.com/doi/10.1002/mrm.29628
 
 ## For easy start, run the code 'Explore_Deep_Learning_IVIM_code.py'
 Figures and Plots are created in subfolders when running the code.
